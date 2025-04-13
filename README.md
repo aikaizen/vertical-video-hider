@@ -3,7 +3,7 @@ Fight the tiktokification of the internet by hiding all vertical videos in your 
 
 To use:
 1. Save the folder
-2.Go to the Extensions page:
+2. Go to the Extensions page:
 - Chrome: chrome://extensions
 - Edge: edge://extensions
 
